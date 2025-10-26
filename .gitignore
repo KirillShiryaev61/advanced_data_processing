@@ -1,5 +1,5 @@
 # Игнорирование системных папок
-.DS_Store/
+.DS_Store
 
 # Игнорирование notebook checkpoints
 .ipynb_checkpoints/
