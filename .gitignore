@@ -1,6 +1,9 @@
 # Игнорирование системных папок
 .DS_Store
 
+# Игнорирование catboost_info
+notebooks/catboost_info/
+
 # Игнорирование notebook checkpoints
 .ipynb_checkpoints/
 
